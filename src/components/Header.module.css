@@ -1,0 +1,11 @@
+.hearder {
+  background-color: var(--gray-700);
+  display: flex;
+  justify-content: center;
+  padding: 4.5rem 0 5rem 0;
+  height: 12.5rem;
+}
+
+.hearder img {
+  height: 3rem;
+}
